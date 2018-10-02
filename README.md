@@ -5,13 +5,13 @@ An application of advanced Convolutional Neural Networks using Keras/Tensorflow 
 
 
 
-# Image Classfier
+### Image Classfier
 
-# Object Detection using Tensorflow API
+### Object Detection using Tensorflow API
 
-# Implementation of Object Detection algorithms
+### Implementation of Object Detection algorithms
 		
 	- Faster RCNN
 	- YOLOv3
 
-# Image Captioning
+### Image Captioning
