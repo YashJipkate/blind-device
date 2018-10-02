@@ -6,6 +6,7 @@ An application of advanced Convolutional Neural Networks using Keras/Tensorflow 
 
 
 ### Image Classfier
+**Simple image classifier**
 
 ### Object Detection using Tensorflow API
 
